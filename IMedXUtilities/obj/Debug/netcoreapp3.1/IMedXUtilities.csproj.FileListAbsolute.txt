@@ -1,0 +1,15 @@
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\bin\Debug\netcoreapp3.1\IMedXUtilities.deps.json
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\bin\Debug\netcoreapp3.1\IMedXUtilities.runtimeconfig.json
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\bin\Debug\netcoreapp3.1\IMedXUtilities.runtimeconfig.dev.json
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\bin\Debug\netcoreapp3.1\IMedXUtilities.dll
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\bin\Debug\netcoreapp3.1\IMedXUtilities.pdb
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\bin\Debug\netcoreapp3.1\IMedXModels.dll
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\bin\Debug\netcoreapp3.1\IMedXModels.pdb
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\obj\Debug\netcoreapp3.1\IMedXUtilities.csprojAssemblyReference.cache
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\obj\Debug\netcoreapp3.1\IMedXUtilities.AssemblyInfoInputs.cache
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\obj\Debug\netcoreapp3.1\IMedXUtilities.AssemblyInfo.cs
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\obj\Debug\netcoreapp3.1\IMedXUtilities.csproj.CopyComplete
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\obj\Debug\netcoreapp3.1\IMedXUtilities.dll
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\obj\Debug\netcoreapp3.1\IMedXUtilities.pdb
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\obj\Debug\netcoreapp3.1\IMedXUtilities.genruntimeconfig.cache
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXUtilities\obj\Debug\netcoreapp3.1\IMedXUtilities.csproj.CoreCompileInputs.cache

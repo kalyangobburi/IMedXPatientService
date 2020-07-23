@@ -1,0 +1,9 @@
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXModels\bin\Debug\netcoreapp3.1\IMedXModels.deps.json
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXModels\bin\Debug\netcoreapp3.1\IMedXModels.dll
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXModels\bin\Debug\netcoreapp3.1\IMedXModels.pdb
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXModels\obj\Debug\netcoreapp3.1\IMedXModels.csproj.CoreCompileInputs.cache
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXModels\obj\Debug\netcoreapp3.1\IMedXModels.AssemblyInfoInputs.cache
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXModels\obj\Debug\netcoreapp3.1\IMedXModels.AssemblyInfo.cs
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXModels\obj\Debug\netcoreapp3.1\IMedXModels.dll
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXModels\obj\Debug\netcoreapp3.1\IMedXModels.pdb
+F:\MyPKSolutions\TEST\IMEDEX\Programming\IMedXPatientSolution\IMedXModels\obj\Debug\netcoreapp3.1\IMedXModels.csprojAssemblyReference.cache

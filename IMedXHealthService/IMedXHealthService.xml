@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IMedXHealthService</name>
+    </assembly>
+    <members>
+        <member name="M:IMedXHealthService.Controllers.PatientHealthController.Put(System.Int32,System.String)">
+            <summary>
+            The Method that Takes the FeedName, FeedDataLines from File,Feed Column Names and Moves to the Database table.
+            </summary>
+            <param name="feedDetails"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
